@@ -1,0 +1,21 @@
+{
+  "name": "escape-minecraft-colors",
+  "version": "1.0.1",
+  "description": "Adds a function to escape Minecraft colors.",
+  "main": "lib/index.js",
+  "author": "ImAhmadAbdullah",
+  "license": "MIT",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "types": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://mit-license.org"
+    }
+  ]
+}
